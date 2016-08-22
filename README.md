@@ -5,5 +5,7 @@ This is a simple Java webscraper (using the [JSoup library](https://jsoup.org/))
 This was a volunteer project with [Winter Wildlands Alliance](http://winterwildlands.org/).
 
 Team memebers:
-@danielbak
-@Emmanuel-Massaquoi
+
+[@danielbak](https://github.com/danielbak)
+
+[@Emmanuel-Massaquoi](https://github.com/Emmanuel-Massaquoi)
